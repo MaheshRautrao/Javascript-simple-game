@@ -4,7 +4,7 @@ This is a simple javascript game developed by me to improve my javascript skills
 
  ## Demo
 
-  https://maheshrautrao.github.io/Javascript-Accordion/
+https://maheshrautrao.github.io/Javascript-simple-game/
  
  ## Tech Stack
 
@@ -13,18 +13,20 @@ This is a simple javascript game developed by me to improve my javascript skills
  ## Learnings
 
   --> Javascript functions <br>
+
   --> dom manipulation <br>
   --> event listeners <br>
   --> javascript selectors <br>
-  --> javascript event capture and target and currentTarget  <br>
   --> javascript classList <br>
-  --> javascript classList.toggle <br>
   --> Html <br>
+  --> Css animation <br>
   --> Css <br>
 
   ## Screen-shots
 
-  
+![Screenshot 2023-07-26 152124](https://github.com/MaheshRautrao/Javascript-simple-game/assets/101188065/8caf0605-28bb-4085-b3fd-f999000085f5)
 
-
+ ![Screenshot 2023-07-26 152159](https://github.com/MaheshRautrao/Javascript-simple-game/assets/101188065/c3f0aaf3-b971-4f28-b1f9-9f3e5e5865b8)
  
+![Screenshot 2023-07-26 152210](https://github.com/MaheshRautrao/Javascript-simple-game/assets/101188065/a3b71463-b83b-4932-a731-8647c0080176)
+
