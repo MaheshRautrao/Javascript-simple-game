@@ -32,12 +32,14 @@
 }
 
 .animate{
-  animation: jump 500ms ;
+  animation: jump 1000ms ;
 }
 
 @keyframes jump {
     0%   {top: 200px;}
-    50%    {top:150px}
+    
+    50%  {top:50px}
+  
     100% {top: 200px;}
   }
 
